@@ -1,0 +1,14 @@
+*{
+    width: 100%;
+    height: 100%;
+ margin: 0;
+ padding:o;
+}
+body{
+
+    overflow: hidden;
+}
+.image{
+    align-items: center;
+    background-color: black;
+}
